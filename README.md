@@ -30,7 +30,11 @@ To run:
 bun run index.ts
 ```
 
-1. **Clone the Repository**:
+1. **Project Link**:
+   ```bash
+    https://github.com/The-FerryMan1/task-traker-cli.git
+  
+3. **Clone the Repository**:
    ```bash
    git clone https://github.com/The-FerryMan1/task-traker-cli.git
    cd task-tracker-cli
