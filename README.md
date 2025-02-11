@@ -30,4 +30,9 @@ To run:
 bun run index.ts
 ```
 
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/The-FerryMan1/task-traker-cli.git
+   cd task-tracker-cli
+
 This project was created using `bun init` in bun v1.1.39. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
