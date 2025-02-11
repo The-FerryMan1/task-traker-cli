@@ -16,7 +16,7 @@ Task Tracker CLI is a command-line application to help you track and manage your
 
 - Node.js
 - Bun
-- A terminal or command-line interfac
+- A terminal or command-line interface
 
 To install dependencies:
 
