@@ -32,7 +32,7 @@ bun run index.ts
 
 1. **Project Link**:
    ```bash
-    https://github.com/The-FerryMan1/task-traker-cli
+    https://roadmap.sh/projects/task-tracker
   
 3. **Clone the Repository**:
    ```bash
