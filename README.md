@@ -18,6 +18,10 @@ Task Tracker CLI is a command-line application to help you track and manage your
 - Bun
 - A terminal or command-line interface
 
+## Project Link
+https://roadmap.sh/projects/task-tracker
+
+
 To install dependencies:
 
 ```bash
@@ -29,12 +33,8 @@ To run:
 ```bash
 bun run index.ts
 ```
-
-1. **Project Link**:
-   ```bash
-    https://roadmap.sh/projects/task-tracker
   
-3. **Clone the Repository**:
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/The-FerryMan1/task-traker-cli.git
    cd task-tracker-cli
